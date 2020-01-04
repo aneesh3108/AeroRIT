@@ -4,7 +4,7 @@ A New Hyperspectral Scene for Semantic Segmentation
 
 This scene was captured via Headwall Photonics Micro Hy-perspec E-Series CMOS sensor at an altitude of approximately 5,000 feat (0.4m GSD). The semantic map pixels were labelled with ENVI 4.8.2, using individual hyperspectral signatures and the geo-registered RGB images as references. 
 
-The scene images can be found [here](https://drive.google.com/drive/folders/1_eenUjORT25wOqAMvgp0x0v21vGZQUSH?usp=sharing). The directory contains four files: 
+The scene images can be found [here](https://drive.google.com/drive/folders/1yCMqa9uDC_CEGtbnxeWEQCTb-odC2r4c?usp=sharing). The directory contains four files: 
 1. image_rgb - The RGB rectified hyperspectral scene.
 2. image_hsi_radiance - Radiance calibrated hyperspectral scene sampled at every 10th band (400nm, 410nm, 420nm, .. 900nm).
 3. image_hsi_reflectance - Reflectance calibrated hyperspectral scene sampled at every 10th band.
