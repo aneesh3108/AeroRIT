@@ -1,0 +1,12 @@
+bands: 51
+hsi_c: rad
+
+network_arch: unet
+use_mini: True
+
+use_SE: True
+use_preluSE: True
+
+network_weights_path: savedmodels/unetm-cse-prelu-gan.pt
+
+use_cuda: True
