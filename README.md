@@ -1,6 +1,7 @@
-# AeroCampus
+# AeroRIT: A New Scene for Hyperspectral Image Analysis
+![Alt](pagecontent\image_rgb-min.pdf)
+
 A New Hyperspectral Scene for Semantic Segmentation
-<img src="image_rgb.jpg" width="512">
 
 This scene was captured via Headwall Photonics Micro Hy-perspec E-Series CMOS sensor at an altitude of approximately 5,000 feat (0.4m GSD). The semantic map pixels were labelled with ENVI 4.8.2, using individual hyperspectral signatures and the geo-registered RGB images as references. 
 
