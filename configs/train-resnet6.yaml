@@ -1,0 +1,14 @@
+bands: 51
+
+hsi_c: rad
+use_augs: True
+
+network_arch: resnet
+resnet_blocks: 6
+
+network_weights_path: savedmodels/resnet6-run1.pt
+
+use_cuda: True
+
+batch_size: 60
+epochs: 60
