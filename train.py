@@ -217,7 +217,7 @@ if __name__ == "__main__":
     for epoch in range(args.epochs):
         scheduler.step()
         train(epoch)
-        oa, mpca, mIOU, _ = val(epoch)
+        oa, mpca, mIOU, _, _ = val(epoch)
         print('Overall acc  = {:.3f}, MPCA = {:.3f}, mIOU = {:.3f}'.format(oa, mpca, mIOU))
         if mIOU > bestmiou:
             bestmiou = mIOU
