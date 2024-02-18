@@ -19,7 +19,7 @@ The scene images can be found [here](https://drive.google.com/drive/folders/1yCM
 3. image_hsi_reflectance - Reflectance calibrated hyperspectral scene sampled at every 10th band.
 4. image_labels - Semantic labels for the entire AeroCampus scene.
 
-Note: The above files only contain every 10th band from 400nm to 900nm. You can request for the full size versions of both radiance and reflectance via an [email](mailto:aneesh.rangnekar@mail.rit.edu?subject=[GitHub]%20AeroCampus%20Full%20Version) to the corresponding author.
+Note: The above files only contain every 10th band from 400nm to 900nm. You can access the full versions of both radiance and reflectance at [GoogleDrive](https://drive.google.com/drive/folders/1FGLXUOKTG3VtFkAzn4lwrDNWKB3b7wEO?usp=drive_link).
 
 ## Baselines Performance on the dataset
 We train a series of networks with weighted cross-entropy loss and report the performance in terms of mean Intersection-over-Union: 
