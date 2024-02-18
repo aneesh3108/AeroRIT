@@ -79,15 +79,17 @@ This scene dataset is made freely available to academic and non-academic entitie
 
 ## Citation
 
-When using the dataset or code, please cite our [paper](https://arxiv.org/pdf/1912.08178.pdf): 
+When using the dataset or code, please cite our paper [arXiv](https://arxiv.org/pdf/1912.08178.pdf): 
 ```
-@misc{rangnekar2019aerorit,
-    title={AeroRIT: A New Scene for Hyperspectral Image Analysis},
-    author={Aneesh Rangnekar and Nilay Mokashi and Emmett Ientilucci and Christopher Kanan and Matthew J. Hoffman},
-    year={2019},
-    eprint={1912.08178},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@article{rangnekar2020aerorit,
+  title={Aerorit: A new scene for hyperspectral image analysis},
+  author={Rangnekar, Aneesh and Mokashi, Nilay and Ientilucci, Emmett J and Kanan, Christopher and Hoffman, Matthew J},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={58},
+  number={11},
+  pages={8116--8124},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
